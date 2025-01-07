@@ -1,6 +1,6 @@
 # AI-Driven Queryless Database Access
 
-### This project leverages artificial intelligence to simplify database interactions, enabling users to retrieve results without writing traditional SQL queries. Designed for accessibility and efficiency, this tool bridges the gap between non-technical users and powerful database functionalities.
+### This project leverages OLLAMA and utilizes the MISTRAL Model to simplify database interactions, enabling users to retrieve results without writing traditional SQL queries. Designed for accessibility and efficiency, this tool bridges the gap between non-technical users and powerful database functionalities.
 
 ## Key Features:
 >Natural Language Processing: Ask questions in plain English and get accurate database results.
@@ -9,10 +9,11 @@
 >User-Friendly Interface: An intuitive frontend for seamless interaction.
 >Customizable and Scalable: Tailored for various use cases and data scales.
 
-##Steps to run this project
+## Steps to run this project
 
 Requirements:
 >Install Ollama
+
 >Download Mistral model using the command:
 ```
 ollama run mistral
@@ -50,9 +51,9 @@ https://github.com/user-attachments/assets/667d1a4e-572d-4662-840f-112c9d990219
 ![OneOut](https://github.com/user-attachments/assets/4aef7554-b47b-40af-ba0c-4c17320399f8)
 
 
-##Second Query
+## Second Query
 https://github.com/user-attachments/assets/ca876e77-4b3e-42c5-873d-92fd152c145b
 
-##Second Output
+## Second Output
 https://github.com/user-attachments/assets/a567f10c-2c82-4e66-9a1f-c4a4d043200b
 
