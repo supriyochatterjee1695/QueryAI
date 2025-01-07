@@ -57,3 +57,5 @@ https://github.com/user-attachments/assets/ca876e77-4b3e-42c5-873d-92fd152c145b
 ## Second Output
 https://github.com/user-attachments/assets/a567f10c-2c82-4e66-9a1f-c4a4d043200b
 
+## Second Output Reference with Excel Pivot Output
+![two Out](https://github.com/user-attachments/assets/97461102-2671-42c8-9ae8-83184dd9bcf2)
