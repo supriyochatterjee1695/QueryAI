@@ -2,6 +2,10 @@
 
 ### This project leverages OLLAMA and utilizes the MISTRAL Model and Langchain to simplify database interactions, enabling users to retrieve results without writing traditional SQL queries. Designed for accessibility and efficiency, this tool bridges the gap between non-technical users and powerful database functionalities.
 
+![Capture](https://github.com/user-attachments/assets/455701e5-6482-4060-a0a2-59b86aa6a99f)
+
+
+
 ## Key Features:
 >Natural Language Processing: Ask questions in plain English and get accurate database results.
 >AI-Powered Query Generation: Automatically translates user inputs into optimized SQL queries.
