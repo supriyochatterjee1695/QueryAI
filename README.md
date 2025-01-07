@@ -1,4 +1,4 @@
-# AI-Driven Queryless Database Access
+# AI-Driven Query-less Database Access
 
 ### This project leverages OLLAMA and utilizes the MISTRAL Model to simplify database interactions, enabling users to retrieve results without writing traditional SQL queries. Designed for accessibility and efficiency, this tool bridges the gap between non-technical users and powerful database functionalities.
 
