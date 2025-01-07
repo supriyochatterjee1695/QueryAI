@@ -25,7 +25,7 @@ ollama run mistral
 
 >Install Dependencies using the command:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 >Run the app:
 ```
