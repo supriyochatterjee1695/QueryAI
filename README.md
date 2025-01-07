@@ -33,20 +33,20 @@ streamlit run app.py
 
 
 
-##This is the UI
+## This is the UI
 https://github.com/user-attachments/assets/ef1e22af-e434-48d2-91f7-4425cb1c7e88
 
 
-##Drag and Drop your csv file
+## Drag and Drop your csv file
 https://github.com/user-attachments/assets/987db402-0e82-4e26-a508-239432ef4c8a
 
-##First Query
+## First Query
 https://github.com/user-attachments/assets/038a5067-0a74-4cd2-95c8-6fc8cbf83ecc
 
-##First Output
+## First Output
 https://github.com/user-attachments/assets/667d1a4e-572d-4662-840f-112c9d990219
 
-##First Output Reference with Excel Pivot Output
+## First Output Reference with Excel Pivot Output
 ![OneOut](https://github.com/user-attachments/assets/4aef7554-b47b-40af-ba0c-4c17320399f8)
 
 
